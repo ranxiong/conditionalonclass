@@ -1,0 +1,2 @@
+# conditionalonclass
+@ConditionalOnClass
